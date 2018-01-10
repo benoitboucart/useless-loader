@@ -1,1 +1,1 @@
-# useless-webpack-loader
+# useless-loader
