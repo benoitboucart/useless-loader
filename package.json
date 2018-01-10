@@ -1,10 +1,9 @@
 {
   "name": "useless-loader",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "git@github.com:benske/useless-loader.git",
   "author": "Benoît Boucart <benoit@webbb.be>",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
