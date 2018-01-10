@@ -6,6 +6,5 @@
   "author": "Benoît Boucart <benoit@webbb.be>",
   "license": "MIT",
   "dependencies": {
-    "xmldom": "^0.1.27"
   }
 }
