@@ -1,6 +1,4 @@
 module.exports = function uselessLoader(source, map) {
-  console.log("Hello from the useless laoder!");
-
   const re = /<\/head>(?![\s\S]*<\/head>[\s\S]*$)/i;
   const output = source.replace(re, `
     <!--
